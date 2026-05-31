@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+.leto:hover{
+    box-shadow: 5px 5px 5px 5px blue;
+}
+.about:hover{
+    box-shadow: 5px 5px 5px 5px blue;
+}
+.gg:hover{
+    text-decoration: underline 2px red;
+}
+.nover:hover{
+    text-decoration: underline 2px red;
+}
+.xz:hover{
+    text-decoration: underline 2px red;
+}
